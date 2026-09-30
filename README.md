@@ -29,7 +29,7 @@ Free License - Lifetime.
 - Redistribution, resale, or publishing the ZIP / source code publicly (including GitHub) is not allowed
 - Support and updates are provided via oubpa.com only
 
-If you need the exact license text, check the product page on https://oubpa.com/shop.
+If you need the exact license text, check the product page on [https://oubpa.com/shop](https://oubpa.com/product/richsnippet-json-ld-structured-data-seo-rich-results-for-magento-2/).
 
 ## Features
 
