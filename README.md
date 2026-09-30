@@ -10,7 +10,7 @@ This module is NOT distributed via GitHub. Download only from oubpa.com/shop.
 
 ## Download
 
-1. Go to https://oubpa.com/shop
+1. Go to [https://oubpa.com/shop](https://oubpa.com/product/richsnippet-json-ld-structured-data-seo-rich-results-for-magento-2/)
 2. Open the Themestar Rich Snippet product page
 3. Click the link / Buy / Download button
 4. Register an account on oubpa.com if you don't have one
@@ -94,7 +94,7 @@ php bin/magento cache:clean
 
 ## Support
 
-- Website: https://oubpa.com/shop
+- Website: [https://oubpa.com/shop](https://oubpa.com/product/richsnippet-json-ld-structured-data-seo-rich-results-for-magento-2/)
 - Create an account on oubpa.com, then contact via the shop contact / support page
 - Include your Magento version, module version (`1.0.0`), and error logs
 
